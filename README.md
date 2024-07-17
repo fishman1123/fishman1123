@@ -1,4 +1,4 @@
-## Hi there 👋
+## YO 👋
 
 <!--
 **fishman1123/fishman1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
