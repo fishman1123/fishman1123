@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishman1123&theme=default&show_icons=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishman1123)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishman1123&layout=donut&show_icons=true&hide_border=true&bg_color=ffffff&icon_color=000000&text_color=000000&title_color=000000&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a> 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=fishman1123&bg_color=ffffff&hide_border=true&line=58A6FF&color=000000" width=94%/>
